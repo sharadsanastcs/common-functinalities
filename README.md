@@ -1,11 +1,11 @@
-# tab functionlaity
+# Tab functionality
 
 Please find all details related tab functionlity
 
 youtube url: https://www.youtube.com/watch?v=UPJsbVPntcA
 
 
-# scroll functionlaity
+# Scroll functionality
 
 Please find all details related tab functionlity
 
@@ -27,7 +27,7 @@ jQuery("a[href^='#']").click(function(e) {
  HTML: in html link href and section id should be same
  
 
-# how to overlap tetx on above background images
+# How to overlap text on above background images
 
 youtube url: https://www.youtube.com/watch?v=Thzwu9k4w-4
 
@@ -35,3 +35,14 @@ youtube url: https://www.youtube.com/watch?v=Thzwu9k4w-4
 # How to change images resolution wise
 
 youtube url:https://www.youtube.com/watch?v=3I-j7Ow6YhI
+
+
+# How to create carousel using slick
+
+youtube url: https://www.youtube.com/watch?v=lBy4GHqKJrc
+
+# How to create popup using magnific
+
+youtube url: https://www.youtube.com/watch?v=fcXPqIaWlsw
+
+
