@@ -1,0 +1,36 @@
+.tab-link-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+p.tab-link {
+  background: #ccc;
+  padding: 20px;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+p.tab-link.active {
+  background: #000;
+  color: #fff;
+}
+
+.tab-content-wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  background: lightblue;
+}
+
+.tab-content {
+  display: none;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.tab-content.active {
+  display: block;
+}
