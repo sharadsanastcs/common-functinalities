@@ -1,4 +1,4 @@
-# common-functinalities
+# tab functionlaity
 
 Please find all details related tab functionlity
 
